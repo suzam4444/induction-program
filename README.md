@@ -54,7 +54,7 @@ One of the key highlights of the day was an informative session by members of a 
 I would like to mention something special about **GNDEC** – the environment here is truly motivational. It encourages us to build a successful future. The **teachers are extremely helpful, kind-hearted**, and maintain strong connections with the students, which creates a positive learning atmosphere.
 
 ## 🍎 Health & Nutrition Talk
-A special session was also conducted by a teacher (I unfortunately don't remember their name), where we were taught about **diet, food habits, and nutrition**.  
+A special session was also conducted by a teacher **Arashdeep Singh**, where we were taught about **diet, food habits, and nutrition**.  
 This was especially helpful for me as it cleared many of my doubts, particularly regarding **whey protein**.
 
 ## 👨‍💻 GitHub Introduction by Seniors
