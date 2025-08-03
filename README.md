@@ -64,4 +64,47 @@ At the end of the program, our **senior students** introduced us to **GitHub** a
 
 ## 👁️ Conclusion
 **Day 2** of the Induction Program was informative, inspiring, and full of learning experiences. It gave us valuable insights into scholarships, health, and technical tools – all of which will help us in our journey at GNDEC and beyond.
+# 📘 Induction Program – Day 3 
+
+Like the previous days, **Day 3** of the Induction Program at GNDEC began with enthusiasm and positive energy. The session was started by an energetic anchor who set the tone for a meaningful day.
+
+## 🎙️ Key Speakers & Highlights
+
+### 👨‍🏫 Dr. Jaswinder Singh
+Dr. Jaswinder Singh delivered an inspiring and thought-provoking session. He beautifully explained the deeper meaning of concepts from **Gurbani**, such as the significance of the number **9** in mathematics and its hidden patterns.  
+He also spoke about the meaning behind **108**, relating it to spiritual and numerical importance. His way of blending science, spirituality, and motivation left everyone deeply engaged.
+<img src="https://drive.google.com/uc?export=view&id=1YmRG_2JKcTWnJynYIUFl8qaQ7jmi7f8w" alt="Dr. Jaswinder Singh" width="300" />
+
+
+He also involved students in an interactive session that demonstrated how simple body-mind balance can reflect focus and discipline.
+
+### 🧑‍🎓 Chief Guest: Guru Charan Singh Ji
+After Dr. Jaswinder Singh, we had the honour of listening to **Guru Charan Singh Ji**, who joined as the **Chief Guest**. He appreciated Dr. Singh's efforts and shared words of encouragement for all students. His warm welcome and respectful remarks added grace to the event.
+<img src="https://drive.google.com/uc?export=view&id=1V6603iRAjYVyTrjAf4FT6_jxqV86iw7Q" alt="Guru Charan Singh Ji" width="300" />
+
+### 👩‍🏫 Dr. Priya Dakshni
+Later, **Dr. Priya Dakshni** addressed the students with a powerful talk on **moral values**, the **importance of life balance**, and how to lead a meaningful and fulfilling life. Her calm and clear thoughts helped students reflect on their own goals and personal development.
+<img src="https://drive.google.com/uc?export=view&id=143NmTy3i9JZk8hDAOoklvnZxLzsE2Jpj" alt="Dr. Priya Dakshni" width="300" />
+
+
+---
+
+## 💡 Key Takeaways
+
+- Understand the deeper meaning behind spiritual and mathematical patterns.
+- Learn to balance **mind, body, and actions** in daily life.
+- Focus on **moral values** and **mental clarity** for a stable future.
+- Respect teachers, stay grounded, and always keep learning.
+
+---
+
+## 👁️ Conclusion
+
+**Day 3** was a blend of **spiritual insight**, **motivational speaking**, and **self-awareness activities**. With guidance from inspiring faculty and guests, students felt a renewed sense of purpose. The atmosphere at **GNDEC** continues to encourage every student to become not just a good engineer, but a good human being.
+
+---
+
+
+
+
 
